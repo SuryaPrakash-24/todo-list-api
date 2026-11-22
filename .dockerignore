@@ -1,0 +1,21 @@
+#Git & documentation
+
+.git
+.gitignore
+README.md
+
+#Local environments & secrets
+
+venv/
+env/
+.venv/
+.env
+.env.\*
+
+#Python caches & local test databases
+
+pycache/
+_.py[cod]
+_.db
+\*.sqlite3
+.pytest_cache/
